@@ -8,7 +8,7 @@ A beginner bioinformatics project written in Python.
 
 ## Planned Features
 
-- DNA validation
+- `DNA validation` -added on 3/7/2026
 - Reverse complement
 - GC content calculator
 - FASTA file reader
